@@ -1,0 +1,1 @@
+Inventory management system for tracking inventory levels, orders, sales and deliveries of the company.
